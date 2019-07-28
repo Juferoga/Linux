@@ -1,0 +1,22 @@
+blue=`echo -en "\e[34m"`
+DEFAULT=`echo -en "\e[49m"`
+LIGHTBLUE=`echo -en "\e[104m"`
+darkgray=`echo -en "\e[90m"`
+white=`echo -en "\e[97m"`
+
+while true; do echo -ne "\e[s\e[0;$((COLUMNS-27))H$(date)\e[u"; sleep 1; done&
+
+echo "
+
+        ${DEFAULT}${blue} --------------------- ------------------------------------${DEFAULT}
+        ${DEFAULT}${blue}|${white}${DEFAULT}   oooo${darkgray} oooooooooooo ${blue}|${DEFAULT}      Welcome Juan Felipe RG        ${DEFAULT}${blue}|${DEFAULT}
+        ${DEFAULT}${blue}|${white}${DEFAULT}    888${darkgray}  888       8 ${blue}|${DEFAULT}          Start typing              ${DEFAULT}${blue}|${DEFAULT}
+        ${DEFAULT}${blue}|${white}${DEFAULT}    888${darkgray}  888         ${blue}|${DEFAULT}            right now               ${DEFAULT}${blue}|${DEFAULT}
+        ${DEFAULT}${blue}|${white}${DEFAULT}    888${darkgray}  888oooo8    ${blue}|${DEFAULT}                                    ${DEFAULT}${blue}|${DEFAULT}
+        ${DEFAULT}${blue}|${white}${DEFAULT}    888${darkgray}  888    °    ${blue}|${DEFAULT}         Phrase of today            ${DEFAULT}${blue}|${DEFAULT}
+        ${DEFAULT}${blue}|${white}${DEFAULT}    888${darkgray}  888         ${blue}|${DEFAULT}             FUCK U                 ${DEFAULT}${blue}|${DEFAULT}
+        ${DEFAULT}${blue}|${white}${DEFAULT}.o. 88P${darkgray} o888o        ${blue}|${DEFAULT}                                    ${DEFAULT}${blue}|${DEFAULT}
+        ${DEFAULT}${blue}|${white}${DEFAULT} Y888P ${darkgray}              ${blue}|${DEFAULT}      2019  - recovery trash PC     ${DEFAULT}${blue}|${DEFAULT}
+        ${DEFAULT}${blue} --------------------- ------------------------------------${DEFAULT}
+"
+
