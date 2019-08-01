@@ -2,7 +2,10 @@
 
 Cosas de Linux :D (^_^) [o_o] (^.^)  (".") ($.$)
 
-Linux Essentials for Linux Professioinal Institute
+
+# Linux Essentials for Linux Professioinal Institute
+
+https://www.lpi.org/es/how-to-get-certified/free-training-materials#linux-essentials
 
 ## Bibliografia
 
