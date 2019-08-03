@@ -14,3 +14,5 @@ https://www.linuxcertification.co.za/sites/default/files/linux-esentials-manual.
 ## Curso Gratuito
 
 https://www.netdevgroup.com/online/courses/open-source/linux-essentials
+
+https://www.atareao.es/blog/
