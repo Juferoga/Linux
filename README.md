@@ -2,6 +2,7 @@
 
 Cosas de Linux :D (^_^) [o_o] (^.^)  (".") ($.$)
 
+https://forum.manjaro.org/t/unable-to-find-wifi-network/5934/9
 
 # Linux Essentials for Linux Professioinal Institute
 
